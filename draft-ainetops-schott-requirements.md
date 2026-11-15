@@ -19,18 +19,18 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "AINETOPS Requirements"
+abbrev: "AINETOPS Requirements"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-ainetops-schott-requirements-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: GEN
+workgroup: dendispatach
 keyword:
  - next generation
  - unicorn
@@ -45,9 +45,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Roland Schott
+    organization: 
+    email: Roland.Schott@telekom.de
 
 normative:
 
