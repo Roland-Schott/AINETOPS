@@ -9,24 +9,24 @@ number:
 date:
 consensus: true
 v: 3
-area: GEN
-workgroup: dendispatach
+# area: GEN
+# workgroup: dendispatach
 keyword:
  - next generation
  - unicorn
  - AI-native
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+#  group: WG
+#  type: Working Group
+#  mail: WG@example.com
+#  arch: https://example.com/WG
+  github: "Roland-Schott/AINETOPS"
+  latest: "https://Roland-Schott.github.io/AINETOPS/draft-ainetops-schott-requirements.html"
 
 author:
  -
     fullname: Roland Schott
-    organization: 
+    organization:
     email: Roland.Schott@telekom.de
 
 normative:
