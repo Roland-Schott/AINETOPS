@@ -15,6 +15,9 @@ Abstract
 
    TODO Abstract
 
+   This document is about the AI in network operations and the
+   requirements that ....
+
 About This Document
 
    This note is to be removed before publishing as an RFC.
