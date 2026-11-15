@@ -39,6 +39,8 @@ informative:
 
 TODO Abstract
 
+This document is about the AI in network operations and the requirements that ....
+
 
 --- middle
 
