@@ -10,7 +10,7 @@ date:
 consensus: true
 v: 3
 # area: GEN
-# workgroup: dendispatach
+# workgroup: gendispatch
 keyword:
  - next generation
  - unicorn
